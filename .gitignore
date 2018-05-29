@@ -1,0 +1,13 @@
+/.metadata/
+RemoteSystemsTempFiles/.project
+webapp-smartedu-interface/.classpath
+webapp-smartedu-interface/.gitignore
+webapp-smartedu-interface/.project
+webapp-smartedu-interface/.settings/.jsdtscope
+webapp-smartedu-interface/.settings/org.eclipse.jdt.core.prefs
+webapp-smartedu-interface/.settings/org.eclipse.m2e.core.prefs
+webapp-smartedu-interface/.settings/org.eclipse.wst.common.component
+webapp-smartedu-interface/.settings/org.eclipse.wst.common.project.facet.core.xml
+webapp-smartedu-interface/.settings/org.eclipse.wst.jsdt.ui.superType.container
+webapp-smartedu-interface/.settings/org.eclipse.wst.jsdt.ui.superType.name
+webapp-smartedu-interface/.settings/org.eclipse.wst.validation.prefs
